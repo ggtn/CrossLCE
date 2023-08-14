@@ -1,0 +1,7 @@
+saved_model/*
+!.keep
+.*.swp
+.*.swo
+*.pyc
+*.json
+data/*
